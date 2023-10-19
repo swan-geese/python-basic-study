@@ -1,0 +1,51 @@
+mysql:
+  base_config:
+    host: dev.mysql.idaas.sso360.cn
+    port: 3306
+    user: base_config
+    password: P21ara#567
+    database: base_config
+  bum:
+    host: dev.mysql.idaas.sso360.cn
+    port: 3306
+    user: bum_user
+    password: m868P4Km0MLq5HWP
+    database: bum
+  job:
+    host: dev.mysql.idaas.sso360.cn
+    port: 3306
+    user: job_user
+    password: P#22ara67cn
+    database: job
+  msg:
+    host: dev.mysql.idaas.sso360.cn
+    port: 3306
+    user: msg_user
+    password: Ms22#abc
+    database: msg
+  policy:
+    host: dev.mysql.idaas.sso360.cn
+    port: 3306
+    user: policy_user
+    password: Pa21ra#77
+    database: policy
+  sso:
+    host: dev.mysql.idaas.sso360.cn
+    port: 3306
+    user: sso_user
+    password: Pa#21sso12
+    database: sso
+  sync:
+    host: dev.mysql.idaas.sso360.cn
+    port: 3306
+    user: sync
+    password: M$wQU9c1U4fLdaut
+    database: sync
+  tenant:
+    host: dev.mysql.idaas.sso360.cn
+    port: 3306
+    user: tenant_user
+    password: WS22#acs82
+    database: tenant
+
+
