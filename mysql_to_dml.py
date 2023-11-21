@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# 将/mysql/source 文件夹中*.sql文件中的select数据转化为insert数据，并输出到/mysql/output文件夹中
-# 用法：python dml_to_mysql.py
+# 将/mysql/src 文件夹中*.sql文件中的select数据转化为insert数据，并输出到/mysql/target 文件夹中
+# 用法：python mysql_to_dml.py
 # 作者：swan-geese
 # 日期：2023-09-28
 # 版本：1.0
